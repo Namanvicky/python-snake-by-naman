@@ -64,6 +64,7 @@
 }
 
 .food{
+    background: url(https://www.pexels.com/photo/shallow-focus-photography-of-red-apple-on-gray-pavement-206959/);
     background: linear-gradient(red, purple);
     border: .25vmin solid black;
     border-radius: 8px;
